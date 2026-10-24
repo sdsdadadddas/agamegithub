@@ -2,7 +2,7 @@
 
 A browser-based game hub built around a single HTML page, with searchable game cards, thumbnail images, favorites, and an embedded game viewer.
 
-#Disclosure
+Disclosure
 
 **This project is fully AI-generated.**
 
