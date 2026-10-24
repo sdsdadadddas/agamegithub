@@ -1,13 +1,17 @@
-# AGAME
+**AGAME**
 
-A browser-based game hub built around a single HTML page, with searchable game cards, thumbnail images, favorites, and an embedded game viewer.
+🚀 Getting Started
 
-Disclosure
+    Download and open index.html.
 
-**This project is fully AI-generated.**
+    Choose a proxy in ⚙️ Settings.
 
-The project’s code, design, documentation, and updates were generated using AI in response to instructions from the repository owner. It should not be presented as independently hand-coded or professionally audited software.
+    If a game is blocked, try the “Open in Proxy” button. It will connect to your selected proxy and attempt to load the site.
 
-AI-generated code can contain bugs, incorrect assumptions, security issues, or features that do not work as intended. Review the code before hosting or using it, and do not assume that every game link or feature has been tested.
+⚠️ Disclosures
 
-This disclosure applies to this project’s own code and documentation. Third-party games, logos, artwork, websites, and services were created by their respective owners—not by this project’s AI tools.
+This project’s code, design, and documentation are fully AI-generated and may contain bugs.
+
+AGAME does not create or own the games it displays. It embeds third-party game websites or loads their HTML/SWF files. Games and artwork belong to their respective owners.
+
+I did not create the proxies either. AGAME connects to third-party services such as Cherri, Study Hub, Aether, and Fern. My personal recommendation is Cherri for its ease of use and speed.
