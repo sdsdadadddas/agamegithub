@@ -1,5 +1,4 @@
 **AGAME**
-
 🚀 Getting Started
 
     Download and open index.html.
